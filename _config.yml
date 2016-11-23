@@ -1,0 +1,8 @@
+excerpt_separator: ""
+pygments: true
+markdown: kramdown
+url: http://minimuchken.github.io
+title: Hydroponics
+tagline: Growing Strawberries
+description: My awesome new site
+paginate: 5
